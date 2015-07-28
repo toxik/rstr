@@ -1,0 +1,20 @@
+{
+  "name": "rstr",
+  "version": "1.0.0",
+  "description": "Generate a random string",
+  "repository": "daryl/rstr",
+  "license": "MIT",
+  "author": {
+    "name": "Daryl Ginn",
+    "email": "hi@daryl.im",
+    "url": "daryl.im"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "random",
+    "string",
+    "str"
+  ]
+}

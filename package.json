@@ -1,6 +1,6 @@
 {
   "name": "rstr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a random string",
   "repository": "daryl/rstr",
   "license": "MIT",
@@ -16,5 +16,6 @@
     "random",
     "string",
     "str"
-  ]
+  ],
+  "dependencies": {}
 }
